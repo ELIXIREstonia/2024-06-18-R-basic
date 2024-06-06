@@ -31,7 +31,7 @@ R is a popular open-source programming language and environment for statistical 
 
 You can find this and the data files from ELIXIREstonia github. `https://github.com/adlerpriit/2024-06-18-R-basic`.
 
-There is follow up course on R and ggplot2 that is meant as logical continuation after you have finished this document: [`https://github.com/ELIXIREstonia/2024-06-18-R-visualisation`](https://github.com/ELIXIREstonia/2024-06-18-R-visualisation)
+There is follow up course on R and ggplot2  [`https://github.com/ELIXIREstonia/2024-06-18-R-visualisation`](https://github.com/ELIXIREstonia/2024-06-18-R-visualisation) that is meant as logical continuation after you have finished this document.
 
 ### R Syntax and Basic Functions
 
