@@ -1,12 +1,12 @@
-# 2023-10-24-R-basic
+# 2024-06-18-R-basic
 
 ELIXIR-EE training course on R and Rstudio basic usage. Target to learners who have no or very little prior experience with R and Rstudio.
 
-The main document of the lecture is the `2023-10-24-R_basic.Rmd` R markdown document. R markdown allows code (examples) and explanation / documentation to be in the same document in a nicely formatted, well structured manner.
+The main document of the lecture is the `2024-06-18-R_basic.Rmd` R markdown document. R markdown allows code (examples) and explanation / documentation to be in the same document in a nicely formatted, well structured manner.
 
 Data files needed in the code are located in the `data` folder.
 
-Some AI generated learning outcomes for the training:
+Learning outcomes for the training:
 
 1.  **Understanding Basic R Data Structures**:
 
@@ -27,3 +27,7 @@ Some AI generated learning outcomes for the training:
 4.  **Application of Data Manipulation Techniques**:
 
     -   By the end of the session, participants will have hands-on experience in applying the introduced concepts to real-world datasets, such as the Kaggle "Memory Test on Drugged Islanders Data" dataset. They'll be able to group data, compute summary statistics, and create new columns based on specific criteria.
+
+### Next step
+
+Take a look at our follow up course on how to create compelling visualisations using R and ggplot2: https://github.com/ELIXIREstonia/2024-06-18-R-visualisation
