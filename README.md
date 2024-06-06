@@ -2,7 +2,7 @@
 
 ELIXIR-EE training course on R and Rstudio basic usage. Target to learners who have no or very little prior experience with R and Rstudio.
 
-The main document of the lecture is the `2024-06-18-R_basic.Rmd` R markdown document. R markdown allows code (examples) and explanation / documentation to be in the same document in a nicely formatted, well structured manner.
+The main document of the lecture is the [`2024-06-18-R_basic.Rmd`](2024-06-18-R_basic.Rmd) R markdown document. R markdown allows code (examples) and explanation / documentation to be in the same document in a nicely formatted, well structured manner.
 
 Data files needed in the code are located in the `data` folder.
 
